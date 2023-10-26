@@ -30,6 +30,5 @@ begin
   for i := 1 to j do // вывод положительного массива
     write(arr[i], ' ');
 
-  readln;
 end.
 
